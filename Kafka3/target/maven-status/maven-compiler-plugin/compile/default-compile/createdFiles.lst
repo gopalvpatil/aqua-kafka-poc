@@ -1,0 +1,5 @@
+com\citi\SupplierSerializer.class
+com\citi\SupplierConsumer.class
+com\citi\SupplierDeserializer.class
+com\citi\SupplierProducer.class
+com\citi\Supplier.class
